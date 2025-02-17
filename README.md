@@ -1,13 +1,13 @@
 # Amazon-scraper
-A Python scraper that extracts product details from Amazon product pages.  
+A Python scraper that extracts product details from each listing on an Amazon product page.  
 
 ## Features  
 - Scrapes the following product details:  
-  - **Title**  
-  - **Price**  
-  - **Rating**  
-  - **Review count**  
-  - **Availability status**  
+  - Title  
+  - Price  
+  - Rating  
+  - Review count  
+  - Availability status  
 - Saves extracted data into a CSV file  
 - Handles errors  
 - Uses environment variables for configuration  
