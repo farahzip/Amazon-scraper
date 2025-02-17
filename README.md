@@ -43,7 +43,7 @@ A Python scraper that extracts product details from Amazon product pages.
 1. Run the script:
    
    ```sh
-   python amazon_scraper.py
+   python app.py
 
 2. Example output:
    
