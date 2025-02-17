@@ -14,21 +14,22 @@ A Python scraper that extracts product details from Amazon product pages.
 
 ## Installation  
 
-1. Clone this repository  
+1. Clone this repository
+   
    ```sh
    git clone https://github.com/yourusername/amazon-scraper.git
 
-2. Navigate to the project directory
+3. Navigate to the project directory
 
    ```sh
    cd amazon-scraper
 
-3. Install required packages
+4. Install required packages
    
    ```sh
    pip install -r requirements.txt
 
-4. Set up environment variables
+5. Set up environment variables
 
    - Create a .env file in the project root
    - Add the following details:
@@ -45,6 +46,7 @@ A Python scraper that extracts product details from Amazon product pages.
    python amazon_scraper.py
 
 2. Example output:
+   
    ```makefile
    Fetching product details...
    Title: Sample Product
@@ -53,7 +55,7 @@ A Python scraper that extracts product details from Amazon product pages.
    Reviews: 1,234
    Availability: In Stock
 
-3. Data is saved in CSV format
+4. Data is saved in CSV format
 
    - Default filename: amazon_data.csv
    - Stored in the current directory
