@@ -59,7 +59,7 @@ A Python scraper that extracts product details from Amazon product pages.
    - Stored in the current directory
 
 
-##Notes
+## Notes
 
     ⚠ Amazon frequently updates its page structure, which may break the scraper.
     If the script stops working, inspect the product page and update the class or ID selectors in the code.
